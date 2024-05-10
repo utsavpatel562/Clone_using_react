@@ -1,7 +1,5 @@
 # Small Apple Website Clone
 
-![Small Apple Logo](link_to_your_logo)
-
 A clone of the Small Apple website built using JavaScript, React.js, TypeScript, SCSS, and Shell scripting.
 
 ## Table of Contents
@@ -33,13 +31,13 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your_username/small-apple-clone.git
+    git clone https://github.com/utsavpatel562/apple_clone.git
     ```
 
 2. Navigate into the project directory:
 
     ```shell
-    cd small-apple-clone
+    cd apple_clone
     ```
 
 3. Install dependencies:
